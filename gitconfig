@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = wissen.lau@gmail.com
+	name = Wissen LAU
